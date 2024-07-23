@@ -16,11 +16,3 @@ expenses) with CRUD operations including search filter and report generation.
 
 Technologies: MERN Stack, Bootstrap, JavaScript and HTML.
 
-i'm ranuga
-i'm nisal
-i'm navod
-i'm navindu 
-i'm abhilasha
-i'm pamali
-i'm hinesha 
-
